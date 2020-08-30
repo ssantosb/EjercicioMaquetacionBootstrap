@@ -1,0 +1,41 @@
+.negrilla {
+  font-weight: bold;
+}
+
+.marron {
+  background-color: brown;
+}
+
+p {
+  text-align: center;
+}
+
+.ancho {
+  height: 150%;
+}
+
+.naranja {
+  background-color: orange;
+}
+
+.rosa {
+  background-color: rgb(253, 120, 142);
+}
+
+.azul {
+  background-color: rgb(97, 165, 211);
+}
+
+.marronClaro {
+  background-color: rgba(138, 47, 47, 0.336);
+}
+
+.letraBlanca {
+  color: white;
+}
+
+@media only screen and (max-width: 768px) {
+  .hidden {
+    display: none;
+  }
+}
